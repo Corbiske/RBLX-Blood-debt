@@ -34,7 +34,7 @@ local WEAPON_CLASSES = {
         ["AT's KAR15"] = true,
         ["VK's ANKM"] = true,
         ["Rosen-Obrez"] = true,
-        ["Mares-leg"] = true -- <== ✅ Fixed missing comma above
+        ["Mares-leg"] = true,
     },
     SHERIFF = {
         ["RR-Snubby"] = true,
